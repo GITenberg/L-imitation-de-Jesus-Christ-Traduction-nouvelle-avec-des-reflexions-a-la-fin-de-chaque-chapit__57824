@@ -1,0 +1,32 @@
+_repo: L-imitation-de-Jesus-Christ-Traduction-nouvelle-avec-des-reflexions-a-la-fin-de-chaque-chapit__57824
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lamennais, Félicité de
+    gutenberg_agent_id: '49622'
+    url: http://www.gutenberg.org/2009/agents/49622
+creator:
+  author:
+    agent_name: Kempis, Thomas a
+    birthdate: 1380
+    deathdate: 1471
+    gutenberg_agent_id: '49626'
+    url: http://www.gutenberg.org/2009/agents/49626
+description: ''
+gutenberg_bookshelf:
+- FR Philosophie, Religion et Morale
+- FR Nouveautés
+gutenberg_issued: '2018-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57824'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'L''imitation de Jésus-Christ
+
+  Traduction nouvelle avec des réflexions à la fin de chaque chapitre'
+url: http://www.gutenberg.org/ebooks/57824
